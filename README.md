@@ -1,2 +1,2 @@
 # clearcord-client
-Python website wrapper
+The Clearcord Client is just a simple python website wrapper.
